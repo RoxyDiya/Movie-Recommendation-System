@@ -1,14 +1,7 @@
 
-
-<p align="center"> 
-  <img src="logo.png" alt="BSL Logo" width="600px" height="300px">
-</p>
 <h1 align="center"> Movie Recommendation System </h1>
 </br>
 
-<p align="center"> 
-  <img src="images/Signal.gif" alt="Sample signal" width="70%" height="70%">
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
