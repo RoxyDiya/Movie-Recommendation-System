@@ -26,7 +26,7 @@
 <p align="justify"> 
   This project implements a movie recommendation system which is an ML-based approach to filtering or predicting the users film preferences based on their past choices and behavior. 
   The primary goal of movie recommendation systems is to filter and predict only those movies that a corresponding user is most likely to want to watch, based on their preference.
-  Our aim is to design and implement such a system using various text to vector conversion techniques and cosine similarity.
+ We focused on designing such a system using various text to vector conversion techniques and cosine similarity.
 </p>
 
 <!--
